@@ -12,6 +12,7 @@ namespace GitExtensionTest
         {
             Console.WriteLine("aaa");
             Console.WriteLine("aaa");
+            Console.WriteLine("debug");
         }
     }
 }
